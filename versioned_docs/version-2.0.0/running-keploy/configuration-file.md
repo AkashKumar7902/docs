@@ -44,7 +44,7 @@ test:
     containerName: ""
     networkName: ""
     # example: "test-set-1": ["test-1", "test-2", "test-3"]
-    tests: 
+    tests:
     # to use globalNoise, please follow the guide at the end of this file.
     globalNoise:
         global:
